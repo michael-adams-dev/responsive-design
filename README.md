@@ -1,0 +1,1 @@
+This code is based off some simple responsive design challenges I've done as part of my course.
